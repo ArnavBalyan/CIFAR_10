@@ -14,16 +14,28 @@ This Project involves Object Recognition along with the application of Principle
 5) These are the classes in the dataset:
 
 airplane
+
+
 automobile
+
 bird
+
 cat
+
 deer
+
 dog
+
 frog
+
 horse
+
 ship
+
 truck
-The classes are completely mutually exclusive. i.e. There is no overlap between automobiles and trucks. "Automobile" includes sedans, SUVs, things of that sort. "Truck" includes only big trucks. Neither includes pickup trucks.
+
+The classes are completely mutually exclusive. i.e. There is no overlap between automobiles and trucks. "Automobile" includes sedans, 
+SUVs, things of that sort. "Truck" includes only big trucks. Neither includes pickup trucks.
 
 # Conclusion
 Out of all the algorithms used, SVM promises the best accuracy of 0.54.This can be improved further by using Neural Networks.
